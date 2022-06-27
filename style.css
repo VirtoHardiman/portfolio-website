@@ -1,0 +1,44 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav {
+  height: 60px;
+}
+
+.container-fluid {
+  margin-top: 100px;
+}
+
+.card {
+  width: 300px;
+  height: 360px;
+}
+
+.card-img-top {
+  width: 80px;
+  height: 80px;
+  margin: auto;
+}
+
+.card-body ul {
+  height: 100px;
+}
+
+.card-body p {
+  margin-top: 48px;
+}
+
+.project img {
+  width: 294px;
+}
+
+.project p {
+  font-size: 14px;
+  height: 120px;
+  margin-top: 0;
+}
+
+.project a {
+  text-decoration: none;
+}
