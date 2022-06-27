@@ -8,6 +8,7 @@
 
 .container-fluid {
   margin-top: 100px;
+  padding-bottom: 40px;
 }
 
 .card {
@@ -40,5 +41,16 @@
 }
 
 .project a {
+  display: inline-block;
   text-decoration: none;
+}
+
+.repository {
+  margin-left: 134px;
+}
+
+.repository img {
+  text-align: right;
+  width: 32px;
+  height: 32px;
 }
